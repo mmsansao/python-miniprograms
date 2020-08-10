@@ -1,6 +1,6 @@
 # Lista
 
-- **bhaskara.py**: calcula as raízes de uma equação do segundo grau. O programa recebe os parâmetros aa, bb, e cc da equação ax^2 + bx + c, respectivamente, e imprime o resultado na saída da seguinte maneira: Quando não houver raízes reais imprime _esta equação não possui raízes reais_; quando houver apenas uma raiz real imprime: _a raiz desta equação é X_, onde X é o valor da raiz; quando houver duas raízes reais imprime: _as raízes da equação são X e Y_, onde X e Y são os valor das raízes. Além disso, no caso de existirem 2 raízes reais, elas são impressas em ordem crescente.
+- **bhaskara.py**: calcula as raízes de uma equação do segundo grau. O programa recebe os parâmetros aa, bb, e cc da equação ax^2^ + bx + c, respectivamente, e imprime o resultado na saída da seguinte maneira: Quando não houver raízes reais imprime _esta equação não possui raízes reais_; quando houver apenas uma raiz real imprime: _a raiz desta equação é X_, onde X é o valor da raiz; quando houver duas raízes reais imprime: _as raízes da equação são X e Y_, onde X e Y são os valor das raízes. Além disso, no caso de existirem 2 raízes reais, elas são impressas em ordem crescente.
 
 - **buzz.py**: Recebe um número inteiro na entrada e imprime _Buzz_ se o número for divisível por 5. Caso contrário, imprime o mesmo número que foi dado na entrada.
 
