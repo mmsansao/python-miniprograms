@@ -1,4 +1,4 @@
-# Lista
+# Sobre
 
 Desenvolvido durante o curso Introdução à Ciência da Computação com Python (Parte 1) oferecido pela USP.
 
