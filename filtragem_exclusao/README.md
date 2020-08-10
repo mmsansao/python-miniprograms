@@ -1,4 +1,4 @@
-#Lista
+# Sobre
 
 Mini programas com funções que filtram dados baseados em parâmetros e exclui elementos.
 
