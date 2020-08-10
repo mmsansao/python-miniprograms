@@ -1,4 +1,4 @@
-#Python Mini-Programas
+# Python Mini-Programas
 
 Repositório com pequenos programas criados em Python (.py) em cursos, exercícios e prática geral.
 
