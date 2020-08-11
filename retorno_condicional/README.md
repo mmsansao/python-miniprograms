@@ -6,6 +6,8 @@ Mini programas com funções que retornam informações baseado em parâmetros e
 
 - **palavra_curta.py**: [3 funções] Retorna o comprimento da palavra mais curta da string dada.
 
+- **maior_menor.py**: [2 funções] Retorna o maior e menor valor numérico da string.
+
 - **mesmo_array.py**: [2 funções] Verifica se o array1 possui os mesmos elementos que array2, sendo que o array2 possui elementos elevados ao quadrado. Não importam as ordens, apenas os elementos em números iguais. Retorna _True_ ou _False_.
 
 ---
