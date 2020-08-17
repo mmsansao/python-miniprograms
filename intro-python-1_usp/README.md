@@ -6,6 +6,10 @@ Desenvolvido durante o curso Introdução à Ciência da Computação com Python
 
 - **buzz.py**: Recebe um número inteiro na entrada e imprime _Buzz_ se o número for divisível por 5. Caso contrário, imprime o mesmo número que foi dado na entrada.
 
+- **conta_primos.py**: Retorna o número de primos entre 0 e o número de entrada (inclusive).
+
+- **decomp_primos.py**: Retorna a decomposição do número de entra na forma de números fatorados.
+
 - **dezenas.py**: Recebe um número inteiro e imprime seu dígito das dezenas.
 
 - **digitos_adjacentes.py**: Recebe um número inteiro na entrada e verifica se o número recebido possui ao menos um dígito com um dígito adjacente igual a ele. Caso exista, imprime _sim_; se não existir, imprime _não_.
@@ -19,6 +23,10 @@ Desenvolvido durante o curso Introdução à Ciência da Computação com Python
 - **fizzbuzz.py**: Recebe um número inteiro na entrada e imprime _FizzBuzz_ se o número for divisível por 3 e 5. Caso contrário, imprime o mesmo número que foi dado na entrada.
 
 - **fizzbuzz_funcao.py**: Função que recebe como parâmetro um número inteiro e devolve _Fizz_ se o número for divisível por 3 e não for divisível por 5; _Buzz_ se o número for divisível por 5 e não for divisível por 3; _FizzBuzz_ se o número for divisível por 3 e por 5; Caso o número não seja divisível 3 e também não seja divisível por 5, ela devolve o número recebido como parâmetro.
+
+- **imprime_retangulo_cheio.py**: Imprime em tela um retângulo composto por _#_ com a altura e largura de entrada.
+
+- **imprime_retangulo_vazado.py**: Imprime em tela um retângulo composto por _#_ apenas nas bordas, com a altura e largura de entrada.
 
 - **jogo_nim.py**: Recebe valores correspondentes a _n_ peças e possibilidade de retirar _m_ peças por vez. Inicia-se perguntando se deseja jogar partida isolada ou campeonato (3 rodadas), informando _n_ e _m_. O computador sempre ganha. Dependendo dos valores recebidos, o computador ou o jogador iniciam a rodada.
 
@@ -42,9 +50,13 @@ Desenvolvido durante o curso Introdução à Ciência da Computação com Python
 
 - **quadrado.py**: Receba o valor correspondente ao lado de um quadrado, calcula e imprime seu perímetro e sua área.
 
+- **quadro_tabuada.py**: Imprime na tela um quadro referência da tabuada de 1 a 10.
+
 - **segundos.py**: Dada uma quantidade de segundos, o programa retorna esse valor em dias, horas, minutos e segundos, no formato: a dias, b horas, c minutos e d segundos.
 
 - **soma_digitos.py**: Receba um número inteiro na entrada, calcula e imprime a soma dos dígitos deste número na saída.
+
+- **soma_hipotenusas.py**: Devolva a soma de todos os inteiros entre 1 e _n_(entrada) que são comprimento da hipotenusa de algum triângulo retângulo com catetos inteiros.
 
 - **vogais.py**: Função que recebe um único caractere como parâmetro e devolve True se ele for uma vogal e False se for uma consoante.
 
