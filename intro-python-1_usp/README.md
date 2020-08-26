@@ -28,7 +28,11 @@ Desenvolvido durante o curso Introdução à Ciência da Computação com Python
 
 - **imprime_retangulo_vazado.py**: Imprime em tela um retângulo composto por _#_ apenas nas bordas, com a altura e largura de entrada.
 
+- **inverte.py**: Recebe input sequenciais de números inteiros maiores que 0, sendo que quando o valor for 0, o programa retornara os valores inseridos em ordem inversa (e sem o valor 0).
+
 - **jogo_nim.py**: Recebe valores correspondentes a _n_ peças e possibilidade de retirar _m_ peças por vez. Inicia-se perguntando se deseja jogar partida isolada ou campeonato (3 rodadas), informando _n_ e _m_. O computador sempre ganha. Dependendo dos valores recebidos, o computador ou o jogador iniciam a rodada.
+
+- **maior_elemento.py**: Retorna o maior elemento entre uma lista de inteiros de entrada.
 
 - **maior_primo.py**: Função que recebe um número inteiro maior ou igual a 2 como parâmetro e devolve o maior número primo menor ou igual ao número passado à função.
 
@@ -52,9 +56,13 @@ Desenvolvido durante o curso Introdução à Ciência da Computação com Python
 
 - **quadro_tabuada.py**: Imprime na tela um quadro referência da tabuada de 1 a 10.
 
+- **remove_repetidos.py**: De uma lista de entrada, o programa remove todos os valores repetidos (deixando entradas únicas) e as ordena em ordem crescente.
+
 - **segundos.py**: Dada uma quantidade de segundos, o programa retorna esse valor em dias, horas, minutos e segundos, no formato: a dias, b horas, c minutos e d segundos.
 
 - **soma_digitos.py**: Receba um número inteiro na entrada, calcula e imprime a soma dos dígitos deste número na saída.
+
+- **soma_elementos.py**: Soma todos os elementos (inteiros) de uma lista de entrada e retorna o total.
 
 - **soma_hipotenusas.py**: Devolva a soma de todos os inteiros entre 1 e _n_(entrada) que são comprimento da hipotenusa de algum triângulo retângulo com catetos inteiros.
 
